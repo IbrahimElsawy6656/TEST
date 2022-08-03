@@ -1,0 +1,15 @@
+﻿03 Aug 2022 13:07:48 - Saving file AdminDataTemplates.xml (C:\Users\IElsawy\Desktop\Ex2\Config\Developer\AdminDataTemplates.xml)
+03 Aug 2022 13:07:48 - Saving file Ex2.dcf (C:\Users\IElsawy\Desktop\Ex2\Config\Developer\Ex2.dcf)
+03 Aug 2022 13:07:49 - Start import
+03 Aug 2022 13:07:49 - Importing file (C:\Program Files (x86)\Vector DaVinci Developer 4.5\Bin\Predefines\StandardPackages_AR4.arxml).
+03 Aug 2022 13:07:49 - Importing file (C:\Program Files (x86)\Vector DaVinci Developer 4.5\Bin\Predefines\ServicePortInterfaces_4.4.0.arxml).
+03 Aug 2022 13:07:49 - Importing file (C:\Program Files (x86)\Vector DaVinci Developer 4.5\Bin\Predefines\ApplicationPortInterfaces_4.4.0.arxml).
+03 Aug 2022 13:07:49 - Importing file (C:\Users\IElsawy\Desktop\Ex2\Config\AUTOSAR\PlatformTypes_AR4.arxml).
+03 Aug 2022 13:07:49 - Merging imported data
+03 Aug 2022 13:07:51 - Finished import
+03 Aug 2022 13:07:51 - Saving file ProfileSettings.xml (C:\Users\IElsawy\Desktop\Ex2\Config\Developer\ProfileSettings.xml)
+03 Aug 2022 13:07:51 - Saving file Packages.arxml (C:\Users\IElsawy\Desktop\Ex2\Config\Developer\Packages.arxml)
+03 Aug 2022 13:07:51 - Saving file DataTypes.arxml (C:\Users\IElsawy\Desktop\Ex2\Config\Developer\DataTypes.arxml)
+03 Aug 2022 13:07:51 - Saving file PortInterfaces.arxml (C:\Users\IElsawy\Desktop\Ex2\Config\Developer\PortInterfaces.arxml)
+03 Aug 2022 13:07:51 - Saving file Ex2.arxml (C:\Users\IElsawy\Desktop\Ex2\Config\Developer\ECUProjects\Ex2.arxml)
+03 Aug 2022 13:07:51 - Saving file Ex2.dcf (C:\Users\IElsawy\Desktop\Ex2\Config\Developer\Ex2.dcf)
