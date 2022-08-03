@@ -1,0 +1,105 @@
+2022-08-03 - 13:18:08
+Workflow 'Update workflow.' started.
+              Using DaVinci Configurator (beta) 5.19.46 SP2 (x86_64).
+ 13:18:08 - Action 'Validate workflow environment' started.
+ 13:18:08 - Action 'Validate dpa file' started.
+ 13:18:08 - Action 'Validate dpa file' successfully finished.
+ 13:18:08 - Action 'SLP conformance check' started.
+ 13:18:08 - Action 'SLP conformance check' successfully finished.
+ 13:18:08 - Action 'Validate workflow environment' successfully finished.
+ 13:18:08 - Action 'Input File Pre-Processing' started.
+ 13:18:08 - Action 'Load arxml file: eJAD_InductionTraining.arxml' started.
+ 13:18:09 - Action 'Load arxml file: eJAD_InductionTraining.arxml' successfully finished.
+ 13:18:09 - Action 'Creating system extract from system description: eJAD_InductionTraining.arxml' started.
+ 13:18:09 - Action 'Creating system extract from system description: eJAD_InductionTraining.arxml' successfully finished.
+ 13:18:09 - Action 'Input File Pre-Processing' successfully finished.
+ 13:18:09 - Action 'Create copy of the Project' started.
+              Copy project 'C:\Users\IElsawy\Desktop\Ex2' to 'C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0'...
+              Adjusting DPA file of copied project...
+ 13:18:09 - Action 'Create copy of the Project' successfully finished.
+ 13:18:09 - Action 'Close Project' started.
+ 13:18:10 - Action 'Close Project' successfully finished.
+ 13:18:13 - Action 'Prepare DaVinci Developer update data' started.
+ 13:18:13 - Action 'Prepare DaVinci Developer update data' successfully finished.
+ 13:18:13 - Action 'Prepare System Extract' started.
+ 13:18:13 - Action 'Preprocessing System Extract' started.
+ 13:18:13 - Action 'Preprocessing System Extract' successfully finished.
+ 13:18:13 - Action 'Create OEM Communication Extract' started.
+ 13:18:13 - Action 'Create OEM Communication Extract' successfully finished.
+ 13:18:13 - Action 'Prepare System Extract' successfully finished.
+ 13:18:13 - Action 'Updating the project' started.
+ 13:18:17 - Action 'Create ECU configuration' started.
+              [Warning] COM52012: No timing defined for the ISignalIPdu (not relevant for LIN PDUs).
+                          Extract Path: /VectorAutosarExplorerGeneratedObjects/PDUS/ACFanSpeed_PDU
+                          Ecuc    Path: /Com/ComConfig/ACFanSpeed_PDU_9dd02bc4_Tx/ComTxIPdu.
+ 13:18:22 - Action 'Create ECU configuration' successfully finished with warnings.
+                 [Warning] COM52012: No timing defined for the ISignalIPdu (not relevant for LIN PDUs).
+                     Extract Path: /VectorAutosarExplorerGeneratedObjects/PDUS/ACFanSpeed_PDU
+                     Ecuc    Path: /Com/ComConfig/ACFanSpeed_PDU_9dd02bc4_Tx/ComTxIPdu.
+ 13:18:22 - Action 'Update ECU configuration' started.
+              No Package path available for module configuration: /ActiveEcuC/Com. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/Mcu. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/Rte. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/EcuM. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/VTTMcu. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/VTTCntrl. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/Os. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/PduR. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/VTTEcuC. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/CanSM. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/Can. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/CanIf. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/ComXf. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/Det. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/ComM. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/VTTCan. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/EcuC. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/BswM. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/vSet. Default /ActiveEcuC is used instead.
+              No Package path available for module configuration: /ActiveEcuC/VTTOs. Default /ActiveEcuC is used instead.
+ 13:18:27 - Action 'Update ECU configuration' successfully finished.
+ 13:18:27 - Action 'Updating the project' finished.
+ 13:18:27 - Action 'Generate update report' started.
+ 13:18:36 - Action 'Generate update report' successfully finished.
+ 13:18:36 - Action 'Execute Solving Actions' started.
+              Executing all Preferred-Solving-Actions...
+              All Preferred-Solving-Actions done.
+              Executing update specific Preferred-Solving-Actions...
+              Update specific Preferred-Solving-Actions done.
+ 13:18:50 - Action 'Execute Solving Actions' successfully finished.
+ 13:18:50 - Action 'Update DaVinci Developer Workspace' started.
+              03 Aug 2022 13:18:56 - Opening workspace 'C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Ex2.dcf'...
+              03 Aug 2022 13:18:57 - Loading file PlatformTypes_AR4.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\AUTOSAR\PlatformTypes_AR4.arxml).
+              03 Aug 2022 13:18:57 - Loading file ComM_swc.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\ServiceComponents\ComM_swc.arxml).
+              03 Aug 2022 13:18:57 - Loading file Det_swc.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\ServiceComponents\Det_swc.arxml).
+              03 Aug 2022 13:18:57 - Loading file EcuM_swc.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\ServiceComponents\EcuM_swc.arxml).
+              03 Aug 2022 13:18:57 - Loading file Os_swc.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\ServiceComponents\Os_swc.arxml).
+              03 Aug 2022 13:18:58 - Loading file DataTypes.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\DataTypes.arxml).
+              03 Aug 2022 13:18:58 - Loading file Ex2.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Ex2.arxml).
+              03 Aug 2022 13:18:58 - Loading file Packages.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Packages.arxml).
+              03 Aug 2022 13:18:58 - Loading file PortInterfaces.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\PortInterfaces.arxml).
+              03 Aug 2022 13:18:58 - Opened workspace 'C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Ex2.dcf' successfully.
+              03 Aug 2022 13:18:59 - Start import.
+              03 Aug 2022 13:18:59 - Importing file (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\System\SystemExtract.arxml).
+              03 Aug 2022 13:19:00 - Merging imported data.
+              03 Aug 2022 13:19:00 - Could not access the category of given Compu-method. The category is deduced as 'LINEAR'.
+              Developer Item: /VectorAutosarExplorerGeneratedObjects/COMPUMETHODS/ACCompPow_Encoding (Compu Method).
+              AUTOSAR Item: /VectorAutosarExplorerGeneratedObjects/COMPUMETHODS/ACCompPow_Encoding.
+              File: SystemExtract.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\System).
+              03 Aug 2022 13:19:01 - Finished import.
+              03 Aug 2022 13:19:01 - Saving workspace 'C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Ex2.dcf'...
+              03 Aug 2022 13:19:01 - Saving file DataTypes.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\DataTypes.arxml).
+              03 Aug 2022 13:19:01 - Saving file Ex2.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Ex2.arxml).
+              03 Aug 2022 13:19:01 - Saving file Packages.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Packages.arxml).
+              03 Aug 2022 13:19:01 - Saved workspace 'C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Ex2.dcf' successfully.
+              03 Aug 2022 13:19:01 - Closing workspace 'C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Ex2.dcf'...
+              03 Aug 2022 13:19:01 - Closed workspace 'C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Ex2.dcf' successfully.
+              OK.
+ 13:19:03 - Action 'Update DaVinci Developer Workspace' successfully finished.
+ 13:19:03 - Action 'Update RTE configuration' started.
+ 13:19:04 - Action 'Update RTE configuration' successfully finished.
+ 13:19:04 - Action 'Align differences after successful update' started.
+ 13:19:04 - Action 'Align differences after successful update' successfully finished.
+ 13:19:04 - Action 'Clean up update data' started.
+ 13:19:04 - Action 'Clean up update data' successfully finished.
+13:19:09 - Workflow 'Update workflow.' finished.

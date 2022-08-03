@@ -1,0 +1,26 @@
+﻿03 Aug 2022 13:18:56 - Opening workspace 'C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Ex2.dcf'...
+03 Aug 2022 13:18:57 - Loading file PlatformTypes_AR4.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\AUTOSAR\PlatformTypes_AR4.arxml)
+03 Aug 2022 13:18:57 - Loading file ComM_swc.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\ServiceComponents\ComM_swc.arxml)
+03 Aug 2022 13:18:57 - Loading file Det_swc.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\ServiceComponents\Det_swc.arxml)
+03 Aug 2022 13:18:57 - Loading file EcuM_swc.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\ServiceComponents\EcuM_swc.arxml)
+03 Aug 2022 13:18:57 - Loading file Os_swc.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\ServiceComponents\Os_swc.arxml)
+03 Aug 2022 13:18:58 - Loading file DataTypes.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\DataTypes.arxml)
+03 Aug 2022 13:18:58 - Loading file Ex2.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Ex2.arxml)
+03 Aug 2022 13:18:58 - Loading file Packages.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Packages.arxml)
+03 Aug 2022 13:18:58 - Loading file PortInterfaces.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\PortInterfaces.arxml)
+03 Aug 2022 13:18:58 - Opened workspace 'C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Ex2.dcf' successfully.
+03 Aug 2022 13:18:59 - Start import
+03 Aug 2022 13:18:59 - Importing file (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\System\SystemExtract.arxml).
+03 Aug 2022 13:19:00 - Merging imported data
+03 Aug 2022 13:19:00 - Could not access the category of given Compu-method. The category is deduced as 'LINEAR'.
+Developer Item: /VectorAutosarExplorerGeneratedObjects/COMPUMETHODS/ACCompPow_Encoding (Compu Method)
+AUTOSAR Item: /VectorAutosarExplorerGeneratedObjects/COMPUMETHODS/ACCompPow_Encoding
+File: SystemExtract.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\System)
+03 Aug 2022 13:19:01 - Finished import
+03 Aug 2022 13:19:01 - Saving workspace 'C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Ex2.dcf'...
+03 Aug 2022 13:19:01 - Saving file DataTypes.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\DataTypes.arxml)
+03 Aug 2022 13:19:01 - Saving file Ex2.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Ex2.arxml)
+03 Aug 2022 13:19:01 - Saving file Packages.arxml (C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Packages.arxml)
+03 Aug 2022 13:19:01 - Saved workspace 'C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Ex2.dcf' successfully.
+03 Aug 2022 13:19:01 - Closing workspace 'C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Ex2.dcf'...
+03 Aug 2022 13:19:01 - Closed workspace 'C:\Users\IElsawy\AppData\Local\Temp\DaVinci\Cfg-5321638\Workflow\1659525489646-0\Config\Developer\Ex2.dcf' successfully.
